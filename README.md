@@ -31,12 +31,13 @@ Also pursuing **BSCS (5th Semester)** at FUUAST.
 
 ## 📊 GitHub Stats
 ![Rameez's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-rameezkhan&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-rameezkhan&layout=compact&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-rameezkhan&layout=compact&theme=radical&card_width=445)
 
 ---
 
 ## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/m-rameezkhan)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/m-rameezkhan)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=firefox)](https://m-rameez-portfolio.netlify.app)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:mrameezkhan1785@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/m-rameezkhan)
