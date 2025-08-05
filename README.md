@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Muhammad Rameez Khan
 
 ## 🚀 About Me
-I'm a passionate **Front-End Developer** from Pakistan 🇵🇰  
+I'm a passionate **Front-End Developer**
 Currently learning **Supabase** and **React.js**.
 Currently working on **self-projects** to improve my skills.  
 Also pursuing **BSCS (5th Semester)** at FUUAST.
