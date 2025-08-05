@@ -41,3 +41,4 @@ Also pursuing **BSCS (5th Semester)** at FUUAST.
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=firefox)](https://m-rameez-portfolio.netlify.app)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:mrameezkhan1785@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/m-rameezkhan)
+[![Upwork](https://img.shields.io/badge/Upwork-Profile-green?logo=upwork)](https://www.upwork.com/freelancers/~01f1df95a302baf167)
