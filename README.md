@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%230d1b2a?style=for-the-badge&logo=github&logoColor=4A90D9)](https://m-rameez-portfolio.netlify.app)&nbsp;[![GitHub](https://img.shields.io/badge/GitHub-%230d1b2a?style=for-the-badge&logo=github&logoColor=4A90D9)](https://github.com/m-rameezkhan)&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230d1b2a?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/m-rameezkhan/)
+<a href="https://m-rameez-portfolio.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%230d1b2a?style=for-the-badge&logo=github&logoColor=4A90D9" alt="Portfolio"></a>&nbsp;<a href="https://github.com/m-rameezkhan" target="_blank"><img src="https://img.shields.io/badge/GitHub-%230d1b2a?style=for-the-badge&logo=github&logoColor=4A90D9" alt="GitHub"></a>&nbsp;<a href="https://www.linkedin.com/in/m-rameezkhan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230d1b2a?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"></a>
 
 </div>
 
