@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%230d1b2a?style=for-the-badge&logo=github&logoColor=4A90D9)](https://m-rameez-portfolio.netlify.app)&nbsp;[![GitHub](https://img.shields.io/badge/GitHub-%230d1b2a?style=for-the-badge&logo=github&logoColor=4A90D9)](https://github.com/m-rameezkhan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230d1b2a?style=for-the-badge&logo=github&logoColor=4A90D9)](https://m-rameez-portfolio.netlify.app)&nbsp;[![GitHub](https://img.shields.io/badge/GitHub-%230d1b2a?style=for-the-badge&logo=github&logoColor=4A90D9)](https://github.com/m-rameezkhan)&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230d1b2a?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/m-rameezkhan/)
 
 </div>
 
@@ -16,14 +16,15 @@
 
 <div align="center">
 
-```javascript
-const rameez = {
-  💼 role: "MERN Stack Developer & Frontend Developer",
-  🎓 education: "BS Computer Science (7th Semester)",
-  💻 passionate_about: ["Web Development", "Agentic AI", "Full-Stack Apps"],
-  🎯 motto: "Code. Learn. Repeat."
-};
-```
+## 💼 About Me
+
+**💼 Role:** MERN Stack Developer & Frontend Developer
+
+**🎓 Education:** BS Computer Science (7th Semester)
+
+**💻 Passionate About:** Web Development | Agentic AI | Full-Stack Apps
+
+**🎯 Motto:** Code. Learn. Repeat.
 
 </div>
 
@@ -81,14 +82,6 @@ const rameez = {
 ![SpecKit Plus](https://img.shields.io/badge/SpecKit_Plus-%230d1b2a?style=for-the-badge&logo=testing-library&logoColor=4A90D9)
 
 <div align="center">
-
-## 📊 GitHub Stats
-
-![Rameez's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-rameezkhan&show_icons=true&theme=radical&hide_border=true&bg_color=0d1b2a)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=m-rameezkhan&background=0d1b2a&ring=4A90D9&fire=4A90D9&currStreakLabel=4A90D9&border=1e3a5f&stroke=1e3a5f&sideLabels=c9d8e8&dates=c9d8e8&currStreakNum=ffffff&sideNums=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m-rameezkhan&layout=compact&theme=radical&hide_border=true&bg_color=0d1b2a)
 
 <br/>
 
