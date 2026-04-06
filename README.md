@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d1b2a&height=120&section=header"/>
 
-<h1><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=99999&color=FFFFFF&center=true&vCenter=true&width=480&height=65&lines=MUHAMMAD+RAMEEZ+KHAN" alt="Muhammad Rameez Khan"/></h1>
+<h1><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=99999&color=FFFFFF&center=true&vCenter=true&width=800&height=65&lines=MUHAMMAD+RAMEEZ+KHAN" alt="Muhammad Rameez Khan"/></h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=4A90D9&center=true&vCenter=true&width=600&lines=Student+%40+PIAIC+%7C+BS+CS+%40+Virtual+University+(7th+Semester);MERN+Stack+Developer+%7C+Frontend+Dev+%7C+Agentic+AI+Explorer+%F0%9F%9A%80" alt="Typing SVG"/>
 
@@ -14,14 +14,18 @@
 
 ---
 
-```typescript
+<div align="center">
+
+```javascript
 const rameez = {
-  education : ["PIAIC — AI & Web Dev", "VU — BS Computer Science (7th Semester) 🎓"],
-  role      : "MERN Stack Developer & Frontend Developer",
-  done      : "Building Full-Stack Web Applications ✅",
-  motto     : "Code. Learn. Repeat.",
+  💼 role: "MERN Stack Developer & Frontend Developer",
+  🎓 education: "BS Computer Science (7th Semester)",
+  💻 passionate_about: ["Web Development", "Agentic AI", "Full-Stack Apps"],
+  🎯 motto: "Code. Learn. Repeat."
 };
 ```
+
+</div>
 
 ---
 
@@ -78,9 +82,13 @@ const rameez = {
 
 <div align="center">
 
-<br/>
+## 📊 GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=m-rameezkhan&background=0d1b2a&ring=4A90D9&fire=4A90D9&currStreakLabel=4A90D9&border=1e3a5f&stroke=1e3a5f&sideLabels=c9d8e8&dates=c9d8e8&currStreakNum=ffffff&sideNums=ffffff"/>
+![Rameez's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-rameezkhan&show_icons=true&theme=radical&hide_border=true&bg_color=0d1b2a)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=m-rameezkhan&background=0d1b2a&ring=4A90D9&fire=4A90D9&currStreakLabel=4A90D9&border=1e3a5f&stroke=1e3a5f&sideLabels=c9d8e8&dates=c9d8e8&currStreakNum=ffffff&sideNums=ffffff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m-rameezkhan&layout=compact&theme=radical&hide_border=true&bg_color=0d1b2a)
 
 <br/>
 
