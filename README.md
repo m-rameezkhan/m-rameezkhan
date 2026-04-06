@@ -4,7 +4,7 @@
 
 <h1><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=99999&color=FFFFFF&center=true&vCenter=true&width=800&height=65&lines=MUHAMMAD+RAMEEZ+KHAN" alt="Muhammad Rameez Khan"/></h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=4A90D9&center=true&vCenter=true&width=600&lines=Student+%40+PIAIC+%7C+BS+CS+%40+Virtual+University+(7th+Semester);MERN+Stack+Developer+%7C+Frontend+Dev+%7C+Agentic+AI+Explorer+%F0%9F%9A%80" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=4A90D9&center=true&vCenter=true&width=600&lines=Student+%40+PIAIC+%7C+BS+CS+%40+Federal+Urdu+University+(7th+Semester);MERN+Stack+Developer+%7C+Frontend+Dev+%7C+Agentic+AI+Explorer+%F0%9F%9A%80" alt="Typing SVG"/>
 
 <br/>
 
@@ -14,19 +14,34 @@
 
 ---
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
 ## 💼 About Me
 
 **💼 Role:** MERN Stack Developer & Frontend Developer
 
-**🎓 Education:** BS Computer Science (7th Semester)
+**🎓 Education:** BS Computer Science (7th Semester)  
+Federal Urdu University
 
 **💻 Passionate About:** Web Development | Agentic AI | Full-Stack Apps
 
 **🎯 Motto:** Code. Learn. Repeat.
 
-</div>
+</td>
+
+<td width="50%">
+
+## 📊 GitHub Stats
+
+![Rameez's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-rameezkhan&show_icons=true&theme=radical&hide_border=true&bg_color=0d1b2a)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=m-rameezkhan&background=0d1b2a&ring=4A90D9&fire=4A90D9&currStreakLabel=4A90D9&border=1e3a5f&stroke=1e3a5f&sideLabels=c9d8e8&dates=c9d8e8&currStreakNum=ffffff&sideNums=ffffff)
+
+</td>
+</tr>
+</table>
 
 ---
 
