@@ -4,7 +4,7 @@
 
 <h1><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=99999&color=FFFFFF&center=true&vCenter=true&width=800&height=65&lines=MUHAMMAD+RAMEEZ+KHAN" alt="Muhammad Rameez Khan"/></h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=4A90D9&center=true&vCenter=true&width=600&lines=Student+%40+PIAIC+%7C+BS+CS+%40+Federal+Urdu+University+(7th+Semester);MERN+Stack+Developer+%7C+Frontend+Dev+%7C+Agentic+AI+Explorer+%F0%9F%9A%80" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=4A90D9&center=true&vCenter=true&width=700&lines=Student+@+PIAIC+|+BS+CS+@+Federal+Urdu+University+(7th+Semester);MERN+Stack+Developer+|+Frontend+Developer+|+Agentic+AI+Explorer+🚀" alt="Typing SVG"/>
 
 <br/>
 
@@ -12,38 +12,31 @@
 
 </div>
 
----
-
-<table>
-<tr>
-<td width="50%">
 
 ## 💼 About Me
 
-**💼 Role:** MERN Stack Developer & Frontend Developer
+<p>
 
-**🎓 Education:** BS Computer Science (7th Semester)  
-Federal Urdu University
+<b>💼 Role:</b> MERN Stack Developer & Frontend Developer specializing in building responsive, scalable, and user-friendly web applications.  
 
-**💻 Passionate About:** Web Development | Agentic AI | Full-Stack Apps
+<b>🎓 Education:</b> BS Computer Science (7th Semester), Federal Urdu University with a strong foundation in software engineering and development.  
 
-**🎯 Motto:** Code. Learn. Repeat.
+<b>💻 Passionate About:</b> Web Development, Agentic AI, and building efficient full-stack applications with modern technologies.  
 
-</td>
+<b>🎯 Motto:</b> Code. Learn. Repeat. — continuously improving skills and building impactful real-world projects.
 
-<td width="50%">
+</p>
+
+---
+<div align="center">
 
 ## 📊 GitHub Stats
 
-![Rameez's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-rameezkhan&show_icons=true&theme=radical&hide_border=true&bg_color=0d1b2a)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-rameezkhan&background=0d1b2a&ring=4A90D9&fire=4A90D9&currStreakLabel=4A90D9&border=1e3a5f&stroke=1e3a5f&sideLabels=c9d8e8&dates=c9d8e8&currStreakNum=ffffff&sideNums=ffffff" width="90%"/>
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=m-rameezkhan&background=0d1b2a&ring=4A90D9&fire=4A90D9&currStreakLabel=4A90D9&border=1e3a5f&stroke=1e3a5f&sideLabels=c9d8e8&dates=c9d8e8&currStreakNum=ffffff&sideNums=ffffff)
-
-</td>
-</tr>
-</table>
-
----
+</div>
 
 **FRONTEND**
 
