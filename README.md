@@ -4,7 +4,7 @@
 
 <h1><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=99999&color=FFFFFF&center=true&vCenter=true&width=800&height=65&lines=MUHAMMAD+RAMEEZ+KHAN" alt="Muhammad Rameez Khan"/></h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=4A90D9&center=true&vCenter=true&width=700&lines=Student+@+PIAIC+|+BS+CS+@+Federal+Urdu+University+(7th+Semester);MERN+Stack+Developer+|+Frontend+Developer+|+Agentic+AI+Explorer+🚀" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=4A90D9&center=true&vCenter=true&width=700&lines=Student+%40+PIAIC+%7C+BS+CS+%40+Federal+Urdu+University+%287th+Semester%29;MERN+Stack+Developer+%7C+Frontend+Developer+%7C+Agentic+AI+Explorer" alt="Typing SVG"/>
 
 <br/>
 
