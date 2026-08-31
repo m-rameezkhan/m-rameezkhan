@@ -17,11 +17,11 @@
 
 <p>
 
-<b>💼 Role:</b> MERN Stack Developer & Flutter Developer specializing in building responsive, scalable, and user-friendly web and mobile applications.  
+<b>💼 Role:</b> MERN Stack & Flutter Developer specializing in building responsive, scalable, and user-friendly web and mobile applications.  
 
 <b>🎓 Education:</b> BS Computer Science (8th Semester), Federal Urdu University with a strong foundation in software engineering and development.  
 
-<b>💻 Passionate About:</b> Web and App Development, Agentic AI, and building efficient full-stack applications with modern technologies.  
+<b>💻 Passionate About:</b> Web and Mobile App Development, Agentic AI, and building efficient full-stack applications with modern technologies.  
 
 <b>🎯 Motto:</b> Code. Learn. Repeat. — continuously improving skills and building impactful real-world projects.
 
